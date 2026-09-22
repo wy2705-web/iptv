@@ -28,7 +28,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTV-13新闻" tvg-logo="https://tb.zbds.top/logo/CCTV13.png" group-title="央视频道",CCTV-13新闻
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 #EXTINF:-1 tvg-id="CCTV-14少儿" tvg-logo="https://tb.zbds.top/logo/CCTV14.png" group-title="央视频道",CCTV-14少儿
-http://198.204.228.26/live/cctv14hd.m3u8
+http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-15音乐" tvg-logo="https://tb.zbds.top/logo/CCTV15.png" group-title="央视频道",CCTV-15音乐
 http://gmxw.7766.org:808/hls/102/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-16奥林匹克" tvg-logo="https://tb.zbds.top/logo/CCTV16.png" group-title="央视频道",CCTV-16奥林匹克
@@ -72,7 +72,7 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://tb.zbds.top/logo/江西卫视.png" group-title="卫视频道",江西卫视
 http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://tb.zbds.top/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://204.12.221.218:8181/3m1080p/gzws.m3u8
+https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="云南卫视" tvg-logo="https://tb.zbds.top/logo/云南卫视.png" group-title="卫视频道",云南卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
 #EXTINF:-1 tvg-id="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
