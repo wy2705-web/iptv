@@ -36,7 +36,7 @@ http://gmxw.7766.org:808/hls/169/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-17农村农业" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="央视频道",CCTV-17农村农业
 http://123.130.84.106:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV-4K超高清" tvg-logo="https://i.imgur.com/fxusYlX.png" group-title="央视频道",CCTV-4K超高清
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1791547200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-4a574ef1888258d4ee53b7ff26385d2a&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1791612000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b72e502f476bc3543b93f9371bf52756&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 tvg-id="CCTV-8K超高清" tvg-logo="https://i.imgur.com/fxVPMJF.png" group-title="央视频道",CCTV-8K超高清
 http://192.151.150.154/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://tb.zbds.top/logo/北京卫视.png" group-title="卫视频道",北京卫视
@@ -94,13 +94,13 @@ http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-logo="https://tb.zbds.top/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://tb.zbds.top/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-https://live.264788.xyz/channel/ningxiaweishi?streamid=551474d02bee1c160e1692e22c45ddba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="青海卫视" tvg-logo="https://tb.zbds.top/logo/青海卫视.png" group-title="卫视频道",青海卫视
 https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-logo="https://tb.zbds.top/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
 https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="西藏卫视" tvg-logo="https://tb.zbds.top/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
-https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://120.76.248.139/live/bfgd/4200000121.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 #EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-logo="https://tb.zbds.top/logo/CCTV怀旧剧场.png" group-title="央视频道",CCTV-怀旧剧场
